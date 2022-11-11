@@ -114,7 +114,6 @@
 				CE79BF5D28D7B5E0009352E3 /* AppDelegate.swift */,
 				CE79BF5F28D7B5E0009352E3 /* SceneDelegate.swift */,
 				CE79BF6628D7B5EB009352E3 /* Assets.xcassets */,
-				CE79BF6828D7B5EB009352E3 /* LaunchScreen.storyboard */,
 				CE79BF6B28D7B5EB009352E3 /* Info.plist */,
 			);
 			path = "Online Attendance";
@@ -149,6 +148,7 @@
 		CE79BF9428D7B74D009352E3 /* View */ = {
 			isa = PBXGroup;
 			children = (
+				CE79BF6828D7B5EB009352E3 /* LaunchScreen.storyboard */,
 				CE79BF9628D7B77E009352E3 /* StoresVC.swift */,
 				CEAD566628D8B9500040B506 /* StoreDetailsVC.swift */,
 			);
